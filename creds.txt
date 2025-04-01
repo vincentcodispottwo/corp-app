@@ -2,4 +2,4 @@
 aws_access_key_id = AKIAT4GVSAXXKUDR5TLA
 aws_secret_access_key = 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
 output = json
-region = us-east-1
+region = us-east-2
