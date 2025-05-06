@@ -97,7 +97,7 @@ resource "aws_db_subnet_group" "database-subnet-group" {
   }
 }
 
-# Create Security Group for the Database comment
+# Create Security Group for the Database 
 # terraform aws create security group
 
 resource "aws_security_group" "database-security-group" {
